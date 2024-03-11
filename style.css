@@ -1,0 +1,271 @@
+*,
+html{
+    margin : 0;
+    padding: 0;
+}
+
+
+
+.container-navbar {
+     color:black;
+     background-color: white;
+   
+ 
+    height: 10vh;
+}
+
+.ul-navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar{
+
+    list-style-type: none;
+    padding:10px;
+    margin:10px;
+    color: white;
+    font-size: 20px;
+}
+
+.li-navbar:hover{
+    background-color: rgb(60, 30, 3);
+    transition: .2s ease-in-out;
+    transition-delay: .1s ;
+    border-radius: 15px;
+
+}
+.h1-container{
+    color :white;
+    font-size: 25px;
+}
+.a-navbar{
+    color:black;
+    text-decoration: none;
+}
+
+.container-content{
+    background-color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+
+}
+
+
+
+
+.image-content-1{
+    width: 100%;
+    height: 100%;
+}
+.image-content-2{
+    width: 100%;
+    height: 100%;
+}
+.image-content-3{
+    width: 100%;
+    height:100%;
+}
+.image-content-4{
+    width: 100%;
+    height:100%;
+}
+.image-content-5{
+    width: 100%;
+    height:100%;
+}
+.image-content-6{
+    width: 100%;
+    height:100%;
+}
+.image-content-7{
+    width: 100%;
+    height:100%;
+}
+.image-content-8{
+    width: 100%;
+    height:100%;
+}
+.image-content-9{
+    width: 100%;
+    height:100%;
+}
+.image-content-10{
+    width: 100%;
+    height:100%;
+}
+
+.h1-captfoto1{
+    font-size:15px;
+    font-style:italic;
+    color: blue;
+    text-align: center;
+}
+.h1-captfoto2{
+    font-size:15px;
+    font-style:italic;
+    color: blue;
+    text-align: center;
+}
+.h1-captfoto3{
+    font-size:15px;
+    font-style:italic;
+    color: blue;
+    text-align: center;
+}
+.h1-captfoto4{
+    font-size:15px;
+    font-style:italic;
+    color: blue;
+    text-align: center;
+}
+.h1-captfoto5{
+    font-size:15px;
+    font-style:italic;
+    color: blue;
+    text-align: center;
+}
+.h1-captfoto6{
+    font-size:15px;
+    font-style:italic;
+    color: blue;
+    text-align: center;
+}
+.h1-captfoto7{
+    font-size:15px;
+    font-style:italic;
+    color: blue;
+    text-align: center;
+}
+.h1-captfoto8{
+    font-size:15px;
+    font-style:italic;
+    color: blue;
+    text-align: center;
+}
+.h1-captfoto9{
+    font-size:15px;
+    font-style:italic;
+    color: blue;
+    text-align: center;
+}
+.h1-captfoto10{
+    font-size:15px;
+    font-style:italic;
+    color: blue;
+    text-align: center;
+}
+
+
+.container-footer{
+    height:5vh;
+    background-color: rgb(60, 30, 3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.h2-footer{
+    font-size: 50px;
+}
+.h3-footer{
+    font-size: 20px;
+    color: black;
+    font-style:inherit;
+}
+.h4-footer{
+    font-size: 35px;
+    font-style:arial;
+}
+.h5-footer{
+    font-size: 30px;
+}
+.h6-footer{
+    font-size: 30px;
+}
+.h7-footer{
+    font-size:30px;
+}
+.h8-footer{
+    font-size:30px;
+}
+.h9-footer{
+    font-size:30px;
+}
+.h10-footer{
+    font-size:30px;
+}
+.h11-footer{
+    font-size:30px;
+}
+.h12-footer{
+    font-size:30px;
+}
+
+.h1-captfotobawah{
+    font-size:15px;
+}
+.h2-captfotobawah{
+    font-size:15px ;
+}
+
+.h1-footerabout{
+    font-size: 50%;
+}
+.h2-footerabout{
+    font-size: 30%;
+}
+.h3-footerabout{
+    font-size: 10px;
+}
+
+
+
+
+
+
+.container-content2{
+    background-color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 100vh; 
+    width: auto;
+}
+.image-content-dimas{
+    
+    height:100%;
+}
+.image-content-haikal{
+ 
+    height:100%;
+}
+.image-content-azril{
+
+    height:100%;
+}
+.image-content-irfann{
+
+    height:100%;
+}
+.image-content-akbar{
+ 
+    height:100%;
+}
+.image-content-candra{
+    
+    height:100%;
+}
+.image-content-anggit{
+ 
+    height:98%;
+}
+.image-content-rafi{
+
+    height:100%;
+}
